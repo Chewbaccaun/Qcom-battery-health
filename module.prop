@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.5
+id=HealthQS
+name=Health Charging Magisk and KSU Module
+version=v1.0
 versionCode=17
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=Chewbaccaun
+description=Activate a variable in sys to limit charging at 90 percent 
+updateJson=https://github.com/Chewbaccaun/Qcom-battery-health/blob/master/update.json
